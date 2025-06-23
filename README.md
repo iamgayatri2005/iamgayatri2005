@@ -1,5 +1,6 @@
 # 💫 About Me:
 🌱 I’m currently learning React<br>
+- 📫 How to reach me **hiiamgayatri15@gmail.com**
 
 
 ## 🌐 Socials:
